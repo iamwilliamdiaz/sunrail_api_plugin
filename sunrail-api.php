@@ -4,7 +4,6 @@ Plugin Name: SUNRAIL API
 Description: A RESTful API
 Version: 1.0.0
 Author: William Diaz
-Author URI: http://www.rightbrainmedia.com/
 */
 
 $dir = sunrail_api_dir();
